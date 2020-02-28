@@ -1,0 +1,20 @@
+[task_center]
+port=8081
+name_alert_count = 5
+total_alert_count = 10
+
+[mongodb]
+uri = ""
+db = ""
+
+[redis]
+addr = ""
+password = ""
+
+[rocketmq]
+group_id = ""
+instance_name = ""
+namesvr = ""
+access_key = ""
+secret_key = ""
+topic = ""
